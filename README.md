@@ -52,12 +52,10 @@ The dataset contains anonymized loyalty program data, including:
 2. **Exploratory Data Analysis (EDA)**:
    - Analyze purchase patterns and demographic trends.
    - Visualize feature distributions and correlations.
-3. **Feature Engineering**:
-   - Create features such as product affinity scores and engagement indices.
-4. **Model Training**:
+3. **Model Training**:
    - Train classification models to predict the likelihood of purchase.
    - Evaluate models using metrics such as precision, recall, and F1-score.
-5. **Targeted Recommendations**:
+4. **Targeted Recommendations**:
    - Identify the top 90% of probable buyers for marketing campaigns.
 
 ---
